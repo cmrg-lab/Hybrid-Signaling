@@ -1,0 +1,12 @@
+name: mybinder-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - jupyter
+  - seaborn  # Add this if needed
+  - sympy    # Add this if needed
