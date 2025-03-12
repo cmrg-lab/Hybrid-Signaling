@@ -1,2 +1,2 @@
 # Hybrid-Signaling
-Example of combining logical and fold-change variables in an ODE network model
+Jupyter Notebook with a toy example of combining logical and fold-change variables in an ODE network model
