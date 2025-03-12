@@ -1,12 +1,10 @@
-name: mybinder-env
+name: hybrid-signaling-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.8
   - numpy
   - matplotlib
   - pandas
   - scipy
   - jupyter
-  - seaborn  # Add this if needed
-  - sympy    # Add this if needed
